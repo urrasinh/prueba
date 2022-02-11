@@ -1,0 +1,92 @@
+body {
+    text-align: center;
+    background: #100b1b;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #fff;
+
+}
+
+p {
+    color: #fff;
+    text-align: justify;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: left;
+
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 25px;
+    color: #fff;
+}
+
+
+
+
+.navbar-brand {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+}
+
+.card {
+    background-color: #06808e;
+}
+
+footer {
+    background-color: #06808e;
+    margin-top: 90px;
+}
+
+.icon {
+    background-color: #06808e;
+    color: #fff;
+    font-size: 22px;
+}
+
+
+hr {
+    height: 2px;
+
+    background-color: #06808e;
+}
+
+.formulario {
+    background-color: rgb(54, 54, 54);
+
+}
+
+@media (max-width:600px){
+    .icon {
+        display: none;
+    }
+}
+
+@media (max-width:600px){
+    .icon {
+        display: none;
+    }
+}
+
