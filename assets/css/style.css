@@ -47,9 +47,6 @@ h3 {
     color: #fff;
 }
 
-
-
-
 .navbar-brand {
     font-family: 'Open Sans', sans-serif;
     font-size: 22px;
@@ -82,13 +79,7 @@ hr {
 
 }
 
-@media (max-width:600px){
-    .icon {
-        display: none;
-    }
-}
-
-@media (max-width:600px){
+@media (max-width:600px) {
     .icon {
         display: none;
     }
