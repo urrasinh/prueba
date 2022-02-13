@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: auto !important;
+}
+
 body {
     text-align: center;
     background: #100b1b;
@@ -89,4 +93,3 @@ hr {
         display: none;
     }
 }
-
